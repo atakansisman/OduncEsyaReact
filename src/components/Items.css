@@ -1,0 +1,22 @@
+.items-container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+background-color: #fff;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.items-container h2 {
+margin-bottom: 20px;
+}
+
+.ant-form-inline .ant-form-item {
+margin-right: 8px;
+}
+
+.ant-list-item {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}

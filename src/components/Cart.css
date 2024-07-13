@@ -1,0 +1,23 @@
+.cart-container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+
+.cart-container h2 {
+margin-bottom: 20px;
+text-align: center;
+}
+
+.total-price {
+margin-top: 20px;
+text-align: center;
+font-size: 18px;
+font-weight: bold;
+}
+
+.payment-button-container {
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
